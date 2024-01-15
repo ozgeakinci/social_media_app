@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539361633863",
+    "project_id": "deneme-dc177",
+    "storage_bucket": "deneme-dc177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539361633863:android:762337830077663c417362",
+        "android_client_info": {
+          "package_name": "com.example.hardware_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8ZCxI5BHWocndLVuZlXZvVOQSS2XxX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539361633863:android:49bb8604b854659b417362",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8ZCxI5BHWocndLVuZlXZvVOQSS2XxX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
